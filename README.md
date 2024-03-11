@@ -1,5 +1,10 @@
 Hi, I’m lilly
-Currently obsessed with compiler and programming language design and am looking into OS dev quite heavily
+A C programmer fluent in a wide array of programming languages, currently planning the following projects:
+
+- portfolio server backend
+- barebones 16 bit os containing a hex moniter, ascii editor, basic filesystem, and a simple language for on board developement
+- an intel 4004 assembler
+
 
 <!---
 nonmasc-lilly/nonmasc-lilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
