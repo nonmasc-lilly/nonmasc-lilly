@@ -1,10 +1,10 @@
 Hi, I’m lilly
 A C programmer fluent in a wide array of programming languages, currently planning the following projects:
 
-- new compiler for EMML with multiple architectures supported
-- portfolio server backend
-- barebones 16 bit os containing a hex moniter, ascii editor, basic filesystem, and a simple language for on board developement
-- an intel 4004 assembler
+- A 3d raycaster game
+- another remake of unicorn blaster in C
+- A 16 bit os
+- A UEFI port of that 16 bit os
 
 
 <!---
