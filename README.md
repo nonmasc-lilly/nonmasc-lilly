@@ -1,11 +1,10 @@
 Hi, I’m lilly
-A C programmer fluent in a wide array of programming languages, currently planning the following projects:
+A C programmer fluent in a wide array of programming languages, currently interested in:
 
-- A 3d raycaster game
-- another remake of unicorn blaster in C
-- A 16 bit os
-- A UEFI port of that 16 bit os
-
+- Compilers
+- OS development
+- Retro computing
+- Assembly programming
 
 <!---
 nonmasc-lilly/nonmasc-lilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
